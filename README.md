@@ -3,7 +3,7 @@
 
 ## About me 🌱
 
-<div style="text-align: right"> Hi, My name is Axel and I am currently stduying in 42-porto 🌈. I have a degree in Biology and Environmental science and I would love to be able to aplly my knowledge in technology and Biology to explore solution to deal with the environmental chalenges our word is facing! 🔭 On this github you'll be able to find the code developed at 42 Porto as well as my personal projects.  </div> 
+<div style="text-align: right"> Hi, My name is Axel and I am currently stduying in 42-porto 🌈. I have a degree in Biology and Environmental science and I would love to be able to apply my knowledge in technology and Biology to explore solution to deal with the environmental chalenges our word is facing! 🔭 On this github you'll be able to find the code developed at 42 Porto as well as my personal projects.  </div> 
 
 ## My skills ⚡️
 
