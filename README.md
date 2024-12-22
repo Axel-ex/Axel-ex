@@ -11,6 +11,7 @@
 ![git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git)
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-0D1117.svg?style=for-the-badge&logo=raspberrypi)
 ![espressif](https://img.shields.io/badge/espressif-0D1117.svg?style=for-the-badge&logo=espressif)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
 
 ## My stats
 <div align="center">
