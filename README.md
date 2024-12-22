@@ -1,8 +1,7 @@
 ## My tools
 
-
-![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B)
+![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c)
 ![Rust](https://img.shields.io/badge/rust-0D1117.svg?style=for-the-badge&logo=rust)
 ![Python](https://img.shields.io/badge/python-0D1117.svg?style=for-the-badge&logo=python)
 ![shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash)
