@@ -13,7 +13,6 @@
 ![espressif](https://img.shields.io/badge/espressif-0D1117.svg?style=for-the-badge&logo=espressif)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
 ## My stats
 <div align="center">
