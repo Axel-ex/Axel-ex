@@ -1,3 +1,9 @@
+## About me 
+
+Hi! It's me Axel! I have a strong interest in embedded systems, edge computing, IoT, and safety-critical software. I love working on projects where reliability, performance, and efficiency are key!
+
+Currently doing my internship in the automotive industry, where I am developing the full software stack of a modeled car, including low-level hardware drivers and deploying optimized machine learning models on edge devices.
+
 ## My tools
 
 ![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B)
