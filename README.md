@@ -14,11 +14,11 @@ Currently doing my internship in the automotive industry, where I am developing 
 ![linux](https://img.shields.io/badge/linux-0D1117.svg?style=for-the-badge&logo=linux)
 ![vim](https://img.shields.io/badge/neovim-0D1117.svg?style=for-the-badge&logo=neovim&logoColor=019733)
 ![git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git)
-[![Docker](https://img.shields.io/badge/Docker-0D1117?logo=docker&logoColor=blue)](#)
+![Docker](https://img.shields.io/badge/Docker-0D1117?logo=docker&logoColor=blue)
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-0D1117.svg?style=for-the-badge&logo=raspberrypi)
 ![espressif](https://img.shields.io/badge/espressif-0D1117.svg?style=for-the-badge&logo=espressif)
 ![ROS](https://img.shields.io/badge/ROS-0D1117?style=for-the-badge&logo=ROS&logoColor=blue)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?logo=tensorflow&logoColor=yellow)](#)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?logo=tensorflow&logoColor=yellow)
 
 ## My stats
 <div align="center">
