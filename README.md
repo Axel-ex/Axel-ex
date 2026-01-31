@@ -4,9 +4,9 @@ Hi! It's me Axel! I have a strong interest in embedded systems, edge computing, 
 
 ## My tools
 
+![Rust](https://img.shields.io/badge/rust-0D1117.svg?style=for-the-badge&logo=rust)
 ![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c)
-![Rust](https://img.shields.io/badge/rust-0D1117.svg?style=for-the-badge&logo=rust)
 ![Python](https://img.shields.io/badge/python-0D1117.svg?style=for-the-badge&logo=python)
 ![shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash)
 ![linux](https://img.shields.io/badge/linux-0D1117.svg?style=for-the-badge&logo=linux)
